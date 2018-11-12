@@ -1,0 +1,23 @@
+{
+  "name": "atm-pre-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node ./task1.js",
+    "task2": "node ./task2.js",
+    "task3": "node ./task3.js",
+    "task4": "node ./task4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolhaValasevich/atm-pre-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolhaValasevich/atm-pre-training/issues"
+  },
+  "homepage": "https://github.com/VolhaValasevich/atm-pre-training#readme"
+}
